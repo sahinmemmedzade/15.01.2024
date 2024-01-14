@@ -1,0 +1,263 @@
+ body{
+    margin: 0;padding: 0;
+ }
+.navinfo{
+    display: inline-block;
+    width: 50%;
+}
+.button{
+    background-color: blue;
+    width: 60px;
+    height: 50px;
+border-radius: 4px;
+}
+.navbutton{
+    width: 45%;
+    display: inline-block;
+   padding-left: 40%;
+   box-sizing: border-box;
+
+}
+.button a{
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+}
+.nav{
+    padding-left: 3%;
+
+}
+
+.lpmain{
+height: 600px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    box-sizing: border-box;
+
+}
+.lpinfo{
+    margin: 0 auto;
+    width: 400px;
+    height: 120px;
+    
+}
+.submitclass{
+    margin-left: 30%;
+
+}
+.submitclass input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+.submitclass  [type=submit]{
+    background-color: blue;
+}
+i{
+    font-size: 40px;
+    margin-left: 10%;
+}
+.advantage{
+padding-left: 40px;
+    height: max-content;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    margin: 0;
+}
+.responsive{
+    width: 20%;
+    display: inline-block;
+    margin-left: 7%;
+}
+.responsiveinfo{
+    margin-left: 5%;
+    width: 45%;
+}
+.bootstrap{
+    margin-left: 12%;
+    width: 25%;
+    display: inline-block;
+}
+.bootstrapinfo{
+    width: 50%;
+}
+.use{
+    margin-left: 8%;
+    width: 25%;
+    display: inline-block;  
+    box-sizing: border-box;
+    margin-left: 10%;
+}
+.useinfo{
+    width: 50%;
+}
+
+.useinfo h1{
+    margin-bottom: 24%;
+}
+.responsivefulldesign-image{
+    width: 400px;
+    height: 400px;
+    vertical-align: top ;
+    margin-left: 20.7%;
+}
+.responsivefulldesign-text{
+    width: 800px;
+    display: inline-block;
+}
+.advantageofcompany{
+    margin-top: 5%;
+margin-right: 0;
+}
+.bootstrap-image{
+    width: 400px;
+height: 400px;
+vertical-align: top;
+
+}
+.Updatedbootstrap-text{
+    width: 800px;
+    display: inline-block;
+    margin-left: 20.7%;
+}
+.easytouse-image{
+    width: 400px;
+    height: 400px;
+    vertical-align: top ;
+    margin-left: 20.7%;
+}
+.easytouse-text{
+    width: 800px;
+    display: inline-block;
+}
+.easytousedesign{
+    margin-top: 3%;
+}
+.Updatedbootstrap{
+    margin-top: 3%;
+}
+.responsivefulldesign{
+    margin-top: 3%;
+}
+.peoplesaying{
+    padding-left: 40px;
+        height: max-content;
+        background-color: antiquewhite;
+        box-sizing: border-box;
+        margin:0;
+        margin-top: 3%;
+        padding-top: 4%;
+        box-sizing: border-box;
+padding-bottom: 3%;    }
+  .margeret{
+    width: 15%;
+    display: inline-block;
+    margin-left: 7%;
+} 
+.margeretimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/testimonials-1.jpg);
+    background-size: cover;
+}
+.margeretinfo{
+    margin-left: 5%;
+    width: 65%;
+}
+.margeretinfo>p{
+    margin-left:-15%;
+
+}
+.Fred{
+    width: 20%;
+    display: inline-block;
+    margin-left: 17%;
+} 
+.Fredimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/testimonials-2.jpg);
+    background-size: cover;
+}
+.Fredinfo{
+    
+    margin-left: 12%;
+    width: 100%;
+
+}
+.Fredinfo>p{
+    width: 100%;
+    margin-left:-15%;
+}
+.Sarah{
+    width: 20%;
+    display: inline-block;
+    margin-left: 17%;
+} 
+.Sarahimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/testimonials-3.jpg);
+    background-size: cover;
+}
+.Sarahinfo{
+    
+    margin-left: 12%;
+    width: 100%;
+
+}
+.Sarahinfo>p{
+    width: 100%;
+    margin-left:-15%;
+}
+.saying{
+    display: block;
+    margin-left: 37%;
+    margin-bottom: 5%
+}
+.signmain{
+    height: 400px;
+        background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 150px;
+        box-sizing: border-box;
+    
+    }
+    .signinfo>h1{
+        color: antiquewhite;
+    }
+    .signinfo{
+        margin: 0 auto;
+        width: 400px;
+        height: 120px;
+        
+    }
+    .footer{
+        padding-top: 5%;
+        box-sizing: border-box;
+    }
+    .menu{
+        width: 100%;
+        height: 200px;
+    }
+    .menu>a{
+        padding-left: 2%;
+    }
+    .socialiconsmain>i{
+        font-size: 35px;
+    }
+   .info{
+    display: inline-block;
+font-size: 18px;
+ }
+.socialicons{
+   margin-left: 50%;
+    width: 20%;
+    display: inline-block;
+}
